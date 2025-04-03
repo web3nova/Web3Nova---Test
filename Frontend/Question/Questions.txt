@@ -12,3 +12,37 @@ Build the given Layout.
 
 Resources:
 Fonts: "Faster One" and "Rock Salt".
+
+5 html attributes
+
+    href
+    style
+    title
+    lang
+    src
+3 ways to use CSS
+
+    inline
+    internal
+    external
+
+<form action="">
+      <input type="radio" id="name" name="name" />
+      <label for="name">Male</label>
+
+      <input type="radio" id="name" name="name" />
+      <label for="name">Female</label>
+    </form>
+
+iframes are html attributes use to display contents and context from the internet.
+
+Classes are css selectors use to style a group of element, while IDs are used to style a particular element.
+
+margin is space outside of a container or an element, while padding is space inside of an element.
+
+5 css selectors
+    Classes
+    IDs
+    Psuedo selectors
+    Basic selectors
+    siblings selectors
