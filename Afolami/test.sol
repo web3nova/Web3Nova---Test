@@ -26,9 +26,9 @@ Candidates[] candidate;
         election.name = _name;
         }
 
-function addCandidate ( string memory _candidatename,  uint _id, address _walletAddress) external {
+function addCandidate ( string memory _candidatename, string memory _name,  uint _id, address _walletAddress) external {
  Candidates memory newCandidate=  Candidates(  _candidatename ,_id, _walletAddress);
-   ElectionDetails storage election= election_systems[_candidatename];
+   ElectionDetails storage election= election_systems[_name];
        election.candidate.push(newCandidate);        
         require( keccak256(bytes(_name)) == keccak256(bytes(election.name)), "Election not registered" );
         TotalnumberOfCandidates +=1;
