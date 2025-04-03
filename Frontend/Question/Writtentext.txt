@@ -1,0 +1,31 @@
+5 HTML ATTRIBUTES  .Q1
+1. href
+2. src 
+3. id
+4. class
+5.
+
+3 WAYS OF USING CSS .Q2
+1. Internal
+2. External
+3. inline
+
+
+Form for selecting one out of multiple option. .Q3
+using the option tag in the css form 
+
+iframes .Q4
+they act like link tags but instead they provide a small view of the page you want tp go to on the website 
+
+Difference between Class and Id .Q5
+Class = targeted using "." in the css file.
+Id = targeted using "#" in the css file and often used only for unique styling.
+ 
+Difference between margin and padding .Q6
+Margin focuses n the space between a file and its outside elements while
+padding focuses on the space in between the element border
+
+5 CSS SELECTORS .Q7
+No idea. I am not sure.
+
+
