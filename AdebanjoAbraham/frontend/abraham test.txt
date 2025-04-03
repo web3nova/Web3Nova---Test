@@ -1,0 +1,42 @@
+
+List 5 html attributes (5 marks)
+div
+class
+id
+list
+label
+
+
+List the 3 ways to use CSS (3 marks)
+i.inline css
+ii. external css
+iii.internal css
+
+Write the code for html form input that allows you to select one out of multiple options (4 marks)
+<label="select">select a dog:</label>
+<input type="select",name="select",id="select an animal">
+
+Explain what you remember about iframes (3 marks)
+iframes are used to display another content of a website on your webpage,you can get an iframe of a YouTube video using the embedded option.
+
+What's the difference between Classes and IDs (5 marks)
+classes can be assigned to more than one elements 
+id is assigned to a specific element
+
+
+What's the difference between margin and padding in CSS (5 marks)
+padding is the space between two block elements on a webpage
+margin is the space between the element or object and the end side of a webpage.
+
+
+
+List 5 types of CSS selectors (5 marks)
+child selectors
+ID selectors
+descendant selectors
+adjancent selectors
+attribute selectors
+
+
+
+
