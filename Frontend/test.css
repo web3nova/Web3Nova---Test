@@ -1,0 +1,41 @@
+
+body{
+    overflow-x: hidden;
+}
+h2{
+color: rgba(92, 6, 13, 0.923);
+text-align: center;
+font-family: "Faster One", system-ui;
+}
+p{
+color: rgb(0, 149, 255);
+font-family: "Rock Salt", cursive;
+}
+.display{
+background-image: url(drex.jpg);
+width: 100%;
+height: auto;
+padding: 30px 10px 80px 10px;
+overflow-x: hidden;
+}
+.display p{
+color: white;
+font-family: "Rock Salt", cursive;
+font-size: 18px;
+text-align: center;
+padding: 16px;
+color: #000;
+}
+a{
+color: green;
+font-family: "Rock Salt", cursive;
+}
+.white-bg{
+background-color: white;
+margin: 20px;
+}
+.broo{
+color: blue;
+font-family: "Rock Salt", cursive;
+font-size: 10px;
+}
