@@ -1,0 +1,35 @@
+QUESTION 1
+   class
+   id
+   title
+   src
+   href
+
+QUESTION 2
+   inline class
+   internal class
+   external class
+
+QUESTION 3
+   
+
+
+QUESTION 4
+   iframes are used to add other webpages into a website. they can also be used to add cntents like maps, images, links inside a website
+
+
+QUESTION 5
+   Classes are represented by (*) while id are represented by (#)
+   classes can also be used to piont to groups of elements, while id are just used for dinstinct or particular elements.
+
+
+QUESTION 6
+   Margin is a space outside of an elements while pagging is a space inside an elements
+   Margin can be used to create space between elements while padding can be used to create space between contents of an elements
+
+
+QUESTION 7
+   id selectors
+   class selectors
+   pseudo selectors
+   attribute selectors

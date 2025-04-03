@@ -1,0 +1,23 @@
+body {
+    font-family: 'Rock Salt', cursive;
+}
+
+h1 {
+    font-family: 'Faster One', cursive;
+    text-align: center;
+    color: red;
+    font-weight: 100;
+}
+
+h4{
+    color: blue;
+}
+
+p {
+    background-image: url(pexels-pixabay-237371.jpg);
+    text-align: center;
+}
+
+a {
+    color: green;
+}
