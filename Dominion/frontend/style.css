@@ -1,0 +1,30 @@
+body {
+    font-family: 'faster one', 'Rock Salt';
+}
+h1 {
+    text-align: center;
+    color: red;
+}
+
+h3 {
+    color: blue;
+}
+
+img {
+    height: 60vh;
+    width: 98vw;
+}
+
+p {
+    font-size: 30px;
+    background-color: white;
+    padding: 20px 10px;
+}
+
+.important {
+    background-image: url(./bgimg.jpg);
+    height: 400px;
+    padding: 20px 10px;
+
+}
+
