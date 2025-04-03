@@ -1,0 +1,69 @@
+5 HTML Attributes
+
+class
+href
+id
+style
+onclick
+onchange
+
+3 Ways to Use CSS
+Internally
+Externally
+Inline
+
+Write the code for html form input that allows you to select one out of multiple options 
+
+<form>
+    <input type="radio" id="option1" name="options" value="Option 1">
+    <label for="option1">Option 1</label><br>
+
+    <input type="radio" id="option2" name="options" value="Option 2">
+    <label for="option2">Option 2</label><br>
+
+    <input type="radio" id="option3" name="options" value="Option 3">
+    <label for="option3">Option 3</label><br>
+
+    <input type="radio" id="option4" name="options" value="Option 4">
+    <label for="option4">Option 4</label><br>
+
+</form>
+
+
+
+
+Explain what you remember about iframes 
+iframes are used to embed a different site to the site you are building to have the sites inside your own site
+
+an example:
+    <iframe
+         src="https://www.googletagmanager.com/ns.html?id=GTM-5KX6J7F"
+         height="30%"
+         width="20%"
+         title="Google Tag Manager">
+    </iframe>
+
+What's the difference between Classes and IDs 
+
+Classes are a type of html attribute or css selectors that can be assigned on multiple html tag to give them a common styling
+
+IDs are a type of html attribute or css selectors that can be assigned on a specific html tag which is unique to just it for styling or to even select it from the javascript end 
+
+What's the difference between margin and padding in CSS
+
+in the box model the 
+
+margin is the space outside the selected object and its container
+assigned with example
+margin : 3rem ;
+
+padding is the space between the selected objects and the items it contains
+padding : 3rem;
+
+List 5 types of CSS selectors 
+
+Element selectors (p{})
+Class selector( .container{} )
+Id selector ( #Modal{})
+Child selector ( div > p {})
+Descendant selector (div p{})
