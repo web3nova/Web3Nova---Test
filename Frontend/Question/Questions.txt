@@ -1,0 +1,14 @@
+WRITTEN TEST (30 Marks, 30 Minutes)
+List 5 html attributes (5 marks)
+List the 3 ways to use CSS (3 marks)
+Write the code for html form input that allows you to select one out of multiple options (4 marks)
+Explain what you remember about iframes (3 marks)
+What's the difference between Classes and IDs (5 marks)
+What's the difference between margin and padding in CSS (5 marks)
+List 5 types of CSS selectors (5 marks)
+
+CODING TEST (20 Marks, 30 Minutes)
+Build the given Layout.
+
+Resources:
+Fonts: "Faster One" and "Rock Salt".
