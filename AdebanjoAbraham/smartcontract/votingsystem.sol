@@ -5,15 +5,23 @@ pragma solidity ^0.8.24;
 contract votingsystem {
 
 struct voter {
-    uint voterid;
-    string name;
-    bool hasVoted;
+    string electionname;
+    string [] candidatesname;
+
     
 }
-mapping (uint => voter) voters;
+mapping (string => voter) public voters;
 
-function registervoter(uint256 _voterid, string memory _name)public {
-voters[_voterid] = voter(_voterid, _name, false);  
+function createElection(string memory _electionName, string[] memory _candidateNames) public{
+voters[_electionName] = voter({
+    electionname: _electionName,
+    candidatesname: _candidateNames
+});
 }
-   
+
+ function vote(string memory _electionName, uint _candidateIndex) public{
+    string memory newvote = voters[_electionName].candidatesname[_candidateIndex];
+    
+
+ }  
 }
