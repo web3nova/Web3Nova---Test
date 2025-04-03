@@ -1,0 +1,26 @@
+1. href
+   src 
+   class
+   id
+   href
+   alt
+2.inline
+  external
+  internal
+3.<form>
+    <label>
+        <input type="radio" name="option" value="shola"> shola
+        <br>
+        <input type="radio" name="option" value="ade"> ade
+        <br>
+        <input type="radio" name="option" value="ope"> ope
+    </label>
+</form>
+4. They are embeded code i.e maps,youtube 
+5. difference between class and ids is that code with class are added with dot on the styling pade but with ids are hashtag e.g lets say for class .p{color: red;} for ids #p{color: red;}
+6.margin is the space outside the border but padding is the space inside the border or the space between the content and the border.
+7. class .P{color: red}
+    IDS #P {color: red}
+    GROUPING P,H1{color: red;}
+    descendant div p{color: red}
+    element e.g p{color: red}
