@@ -1,0 +1,39 @@
+  .head{  
+    
+    h1{
+                 font-family: "Faster One", system-ui;
+            font-weight: 400;
+            font-style: normal;
+          
+          display: flex;      
+    justify-content: center;
+    align-content: center;
+    color: red;
+    }
+  
+    p{
+    
+            font-family: "Rock Salt", cursive;
+            font-weight: 400;
+            font-style: normal;
+
+            color: blue;
+          
+           } 
+ }
+
+ .container{
+  background-image: url("nature-3082832_1280.jpg")
+}
+
+p{
+    
+    
+        font-family: "Rock Salt", cursive;
+        font-weight: 400;
+        font-style: normal;
+        color: blue;
+}
+a{color: green;
+}
+}
