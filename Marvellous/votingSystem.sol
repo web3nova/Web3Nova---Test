@@ -10,16 +10,16 @@ contract Voting {
 
     struct Voter {
         bool hasVoted;
-        string votedFor;
+        string votedFor;  
     }
 
     address public owner;
 
     mapping(uint => Election) public elections;
-    mapping(address => mapping(uint => Voter)) public voters;
+    mapping(address => mapping(uint => Voter)) public voters;  
 
     modifier onlyOwner() {
-        require(msg.sender == owner, "Only owner can perform this action.");
+        require(msg.sender == owner, "Only owner can perform this action.");  
         _;
     }
 
