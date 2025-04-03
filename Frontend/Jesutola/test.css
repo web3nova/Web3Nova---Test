@@ -1,0 +1,31 @@
+title{
+    font-size: 3000px;
+    color: red;
+    text-align: center;
+
+}
+button{
+    background-color: brown;
+    color: #999;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    padding: 20px;
+}
+h1{
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+    color: red;
+    text-align: center;
+    text-shadow: hwb(120 2% 97%);
+    stroke: #333;
+    box-shadow: chartreuse;
+}
+iframe{
+    size: 900px, 1200px;
+}
