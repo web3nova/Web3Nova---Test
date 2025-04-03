@@ -1,0 +1,72 @@
+:root {
+   --p-font-family: "Rock Salt", cursive;
+   --p-font-weight: 400;
+   --p-font-style: normal;
+   --s-font-family: "Faster One", system-ui;
+   --s-font-weight: 400;
+   --s-font-style: normal;
+}
+
+* {
+   box-sizing: border-box;
+   margin: 0;
+   padding: 0;
+}
+body {
+   background-color: #fff;
+   padding: 1rem;
+}
+.fasterOne {
+   font-family: var(--s-font-family);
+   font-weight: var(--s-font-weight);
+   font-style: var(--s-font-style);
+   text-align: center;
+   font-size: 4rem;
+   color: rgb(139, 23, 19);
+}
+.container {
+   background: url("Cat.png") center center no-repeat;
+   background-size: cover;
+   display: flex;
+   padding-top: 2rem;
+   align-items: center;
+   flex-direction: column;
+   height: 50vh;
+   width: 100%;
+   font-family: var(--p-font-family);
+   font-weight: var(--p-font-weight);
+   font-style: var(--p-font-style);
+}
+.herotext {
+   font-family: var(--p-font-family);
+   font-weight: var(--p-font-weight);
+   font-style: var(--p-font-style);
+
+   font-size: 2rem;
+   color: rgb(32, 32, 104);
+}
+.box {
+   background-color: #fff;
+   width: 80%;
+   height: 40%;
+   padding: 0.8rem 1.5rem;
+   border-radius: 1rem;
+}
+.link {
+   font-family: var(--p-font-family);
+   font-weight: var(--p-font-weight);
+   font-style: var(--p-font-style);
+   font-size: 1.5rem;
+   color: seagreen;
+}
+.link:hover {
+   color: greenyellow;
+}
+.mapto {
+   font-family: var(--p-font-family);
+   font-weight: var(--p-font-weight);
+   font-style: var(--p-font-style);
+   font-size: 1.5rem;
+   color: rgb(47, 47, 167);
+   margin: 2rem 0;
+}
