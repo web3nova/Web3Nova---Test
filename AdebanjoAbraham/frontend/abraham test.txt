@@ -1,41 +1,58 @@
 
 List 5 html attributes (5 marks)
-div
+div #{ Div is not an attribute rather a tag}
 class
 id
-list
-label
+list #{ list is not an attribute}
+label #{ label is not an attribute rather a tag}
+(2 Marks ✅)
 
 
 List the 3 ways to use CSS (3 marks)
 i.inline css
 ii. external css
 iii.internal css
+(3 Marks ✅)
 
 Write the code for html form input that allows you to select one out of multiple options (4 marks)
 <label="select">select a dog:</label>
 <input type="select",name="select",id="select an animal">
+#{ Correction : 
+<label for="dog-select">Select a dog:</label>
+<select name="select" id="dog-select">
+    <option value="labrador">Labrador</option>
+    <option value="golden-retriever">Golden Retriever</option>
+    <option value="poodle">Poodle</option>
+    <option value="bulldog">Bulldog</option>
+</select>
+}
+(1 mark ✅)
+
 
 Explain what you remember about iframes (3 marks)
 iframes are used to display another content of a website on your webpage,you can get an iframe of a YouTube video using the embedded option.
+(3 Marks ✅)
 
 What's the difference between Classes and IDs (5 marks)
 classes can be assigned to more than one elements 
 id is assigned to a specific element
-
+(5 Marks ✅)
 
 What's the difference between margin and padding in CSS (5 marks)
 padding is the space between two block elements on a webpage
 margin is the space between the element or object and the end side of a webpage.
-
+(2 Marks ✅)
 
 
 List 5 types of CSS selectors (5 marks)
 child selectors
 ID selectors
 descendant selectors
-adjancent selectors
+adjancent selectors #{adjacent Sibling Selector}
 attribute selectors
+(5 Marks ✅)  
+
+21 MARKS ✅
 
 
 
