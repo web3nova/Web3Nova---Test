@@ -42,3 +42,4 @@ contract VotingSystem {
         return totalVoteCount;
     }
 }
+#{No Distinctive create a Voting Campaign }
