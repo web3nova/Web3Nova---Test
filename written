@@ -1,14 +1,23 @@
+WRITTEN TEST (30 Marks, 30 Minutes)
+List 5 html attributes (5 marks)
+List the 3 ways to use CSS (3 marks)
+Write the code for html form input that allows you to select one out of multiple options (4 marks)
+Explain what you remember about iframes (3 marks)
+What's the difference between Classes and IDs (5 marks)
+What's the difference between margin and padding in CSS (5 marks)
+List 5 types of CSS selectors (5 marks)(1 Marks ✅)
 QUESTION 1
    class
    id
    title
    src
    href
-
+(5 Marks ✅)
 QUESTION 2
    inline class
    internal class
    external class
+(3 Marks ✅)
 
 QUESTION 3
    
@@ -16,20 +25,24 @@ QUESTION 3
 
 QUESTION 4
    iframes are used to add other webpages into a website. they can also be used to add cntents like maps, images, links inside a website
-
+(3 Marks ✅)
 
 QUESTION 5
    Classes are represented by (*) while id are represented by (#)
    classes can also be used to piont to groups of elements, while id are just used for dinstinct or particular elements.
-
+(5 Marks ✅)
 
 QUESTION 6
    Margin is a space outside of an elements while pagging is a space inside an elements
    Margin can be used to create space between elements while padding can be used to create space between contents of an elements
-
+#{ padding is not technically used to create space between contents of an elements but space around the content of an element}
+(5 Marks ✅)
 
 QUESTION 7
    id selectors
    class selectors
    pseudo selectors
    attribute selectors
+(4 Marks ✅)
+
+(25/30 Marks ✅)
