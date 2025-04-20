@@ -63,3 +63,5 @@ contract Voting {
         return elections[_electionId].votes[_candidateName];
     }
 }
+
+//This is perfect but you vibe coded and there's a penalty ( 75/100 ✅)
