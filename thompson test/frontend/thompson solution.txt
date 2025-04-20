@@ -1,5 +1,12 @@
 solution to test by Awofisayo Thompson
-
+WRITTEN TEST (30 Marks, 30 Minutes)
+List 5 html attributes (5 marks)
+List the 3 ways to use CSS (3 marks)
+Write the code for html form input that allows you to select one out of multiple options (4 marks)
+Explain what you remember about iframes (3 marks)
+What's the difference between Classes and IDs (5 marks)
+What's the difference between margin and padding in CSS (5 marks)
+List 5 types of CSS selectors (5 marks)
 1. 5 html atrributes
 	
 	a. class
@@ -7,12 +14,13 @@ solution to test by Awofisayo Thompson
 	c. style
 	d. title
 	e. alt
+(5 Marks ✅)
 
 2. 	Ways to use css
 	inline css
 	internal css
 	external css
-
+(3 Marks ✅)
 3.	Selector Code
 	
 	<html>
@@ -29,19 +37,21 @@ solution to test by Awofisayo Thompson
         </select>
 	</head>
 	</html>
-
+(4 Marks ✅)
 4.	iframes
 	iframes is an element that is used for media (audio, video). examples of iframes are youtube video embeded links, giphy gif embeded link
-
+(1 Marks ✅)
 5.	diffrences between class and Id
 	classes can be use to identify multiple styling (parent) examples = div. while Ids are used to lable a specific element. 
-
+(5 Marks ✅)
 6.	diffrence between margin and padding
 	margin is the space between a container and the entire screen, while padding is the inner space between a text and object (example button)
-
+(5 Marks ✅)
 7.	types of css selection
 	a. class selector (.)
 	b. attributes selector ()
 	c.  (#)
 	d. pseudo selector (::)
 	e. root selector (*)
+(5 Marks ✅)
+28/30(Marks ✅)
