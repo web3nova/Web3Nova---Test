@@ -20,11 +20,15 @@ Fonts: "Faster One" and "Rock Salt".
     title
     lang
     src
+(5 Marks ✅)
+
 3 ways to use CSS
 
     inline
     internal
     external
+(3 Marks ✅)<label for="dog-select">Select a dog:</label>
+
 
 <form action="">
       <input type="radio" id="name" name="name" />
@@ -34,11 +38,27 @@ Fonts: "Faster One" and "Rock Salt".
       <label for="name">Female</label>
     </form>
 
+#{
+Your attempt works but its not what is required for a form
+here is a format 
+
+<select name="select" id="dog-select">
+    <option value="labrador">Labrador</option>
+    <option value="golden-retriever">Golden Retriever</option>
+    <option value="poodle">Poodle</option>
+    <option value="bulldog">Bulldog</option>
+</select>
+}
+(1 Marks ✅)
+
 iframes are html attributes use to display contents and context from the internet.
+(3 Marks ✅)
 
 Classes are css selectors use to style a group of element, while IDs are used to style a particular element.
+(5 Marks ✅)
 
 margin is space outside of a container or an element, while padding is space inside of an element.
+(5 Marks ✅)
 
 5 css selectors
     Classes
@@ -46,3 +66,7 @@ margin is space outside of a container or an element, while padding is space ins
     Psuedo selectors
     child selectors
     Adjacent siblings selectors
+(5 Marks ✅)
+
+( 27 
+/ 30)
