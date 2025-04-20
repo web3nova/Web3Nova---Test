@@ -4,25 +4,34 @@ HTML ATTRIBUTES
 <img src="img.jpg" height =500px>
 <div class="skill-progress" style="width: 85%">
 <input type="email" id="email" name="email" required>
+(5 Marks ✅ )
 
 List the 3 ways to use CSS (3 marks)
 INLINE METHOD
-IMPORT METHOD 
+IMPORT METHOD #(INTERNAL METHOD / INTERNAL CSS STYLING)
 EXTERNAL METHOD 
+(2 Marks ✅ )
 
 Explain what you remember about iframes (3 marks)
 
 Iframes are elements in HTML that makes it possible to import a particular content from another website into the site being created .example: google maps, youtube videos
+(3 Marks ✅ )
 
 What's the difference between Classes and IDs (5 marks)
 
 Class are used as css identifiers to pickout a particular section of content that the programmer wants to style  while IDS are identifiers used also like classes but classes can't be used for javascript as an id is by javascript to be able to work with sections mapped to the ID 
+(1 Mark ...✅ )
 
 What's the difference between margin and padding in CSS (5 marks)
 padding is a css style used in creating space between contents in  a container while margin is a css style used in creating spacing between two or more containers of content
+(3 Marks ...✅ )
 
 
 
 Child Selector 
 Descendant Selector 
+
+(2 Marks ...✅ )
+
+### ( 16 /30 ✅ )
  
