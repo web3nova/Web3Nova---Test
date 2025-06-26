@@ -1,0 +1,47 @@
+solution to test by Awofisayo Thompson
+
+1. 5 html atrributes
+	
+	a. class
+	b. Id
+	c. style
+	d. title
+	e. alt
+
+2. 	Ways to use css
+	inline css
+	internal css
+	external css
+
+3.	Selector Code
+	
+	<html>
+	<!DOCTYPE html>
+	<html lang="en">
+	<head>
+	<select name="CountryCode" id="CountryCode">
+            <option value=""> Select Option </option>
+            <option value="+254">Kenya</option>
+            <option value="+256">Uganda</option>
+            <option value="+250">Rwanda</option>
+            <option value="+255">Tanzania</option>
+            <option value="+234">Nigeria</option>
+        </select>
+	</head>
+	</html>
+
+4.	iframes
+	iframes is an element that is used for media (audio, video). examples of iframes are youtube video embeded links, giphy gif embeded link
+
+5.	diffrences between class and Id
+	classes can be use to identify multiple styling (parent) examples = div. while Ids are used to lable a specific element. 
+
+6.	diffrence between margin and padding
+	margin is the space between a container and the entire screen, while padding is the inner space between a text and object (example button)
+
+7.	types of css selection
+	a. class selector (.)
+	b. attributes selector ()
+	c.  (#)
+	d. pseudo selector (::)
+	e. root selector (*)
